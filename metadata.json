@@ -1,0 +1,6 @@
+{
+  "name": "Room Management",
+  "description": "100% offline room, building, rent, electricity, marketing slip, and member credit/debit management application powered by Room SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
